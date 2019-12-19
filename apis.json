@@ -1,0 +1,49 @@
+{
+    "name": "BioGRID",
+    "description": "",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/biogrid-logo.png",
+    "tags": [
+        "api provider",
+        "biology",
+        "data provider",
+        "genetics",
+        "have api",
+        "profile",
+        "protein"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/biogrid\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "BioGRID",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/biogrid-logo.png",
+            "humanURL": "http:\/\/wiki.thebiogrid.org\/doku.php\/biogridrest",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/biogrid-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/biogrid-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/biogrid"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/wiki.thebiogrid.org\/doku.php\/biogridrest"
+        }
+    ]
+}
